@@ -16,6 +16,6 @@ std::cout << "a = " << a << " et b = " << b;
 
 std::cout << "\na + b = " << a << " + " << b << " = " << somme(a, b);
 
-  std::cout << "\nC'est tout ! << std::endl;
+std::cout << "\nC'est tout !" << std::endl;
 
 }
