@@ -21,8 +21,8 @@ return a / b;
 
 int main(){
 
-int a = 3;
-int b = 9;
+int a = 9;
+int b = 3;
 
 std::cout << "Hello Main !\n";
 std::cout << "a = " << a << " et b = " << b;
